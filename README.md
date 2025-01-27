@@ -2,7 +2,7 @@
 Hello! I'm Dominique/Dom. I'm a programmer, artist, and student. I like to create neat stuff.
 
 ## 🎓 **Education:**
-- University of New Orleans: (_**Currently pursuing**_) Computer Science B.S. with a Machine & Artificial Intelligence focus.
+- University of New Orleans: (_**Currently pursuing**_) Computer Science B.S. with a Machine Learning & Artificial Intelligence focus.
 - Louisiana State University: Digital Art B.F.A.
 
 ## 🌟 **Skills and Tools:**
